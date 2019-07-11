@@ -21,3 +21,8 @@ dependencies {
 }
 ```
 
+# Example:
+
+```
+ToastMessage.displayToast(this, "Your text which you want to Toast");
+```
